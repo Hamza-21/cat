@@ -1,3 +1,14 @@
+Before everything
+1.open vm virtualbox
+2.start cloudera
+3.open terminal
+4.type hive & press enter
+   4.1 if hive command not working then simply ask mam to change the pc
+5.create two file m.txt & n.txt in /home/cloudera which u can find in above tabs or simple create using terminal that is touch command
+6.make sure in both the .txt files format will be (matrix_name,row_value,col_value,value) so first line of m.txt can be (m,0,0,1) and so on ..
+
+then simple copy and paste the below commands
+
 *******  matrix multiplication **********
 
 
