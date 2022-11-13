@@ -1,7 +1,7 @@
 import mmh3
 ##install mmh3 :- pip3 install mmh3
-words_to_add = ["geeks", "date", "cat"]
-words_to_check = ["geeks", "date" ,"not"]
+words_to_add = ["bloom", "date", "cat"]
+words_to_check = ["bloom", "date" ,"not"]
 mbit_arr_size = 20
 no_of_hashes = 3
 mbit_arr = [0 for i in range(mbit_arr_size)]
